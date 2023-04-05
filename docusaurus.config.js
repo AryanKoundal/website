@@ -38,7 +38,7 @@ module.exports = {
     "I am a Full Stack Web Developer.",
   url: "https://AryanKoundal.github.io",
   baseUrl: "/portfolio/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   favicon: "img/logo.png",
   organizationName: "AryanKoundal",
   projectName: "portfolio",
@@ -130,7 +130,7 @@ module.exports = {
       crossorigin: "anonymous",
     },
   ],
-  plugins:    [
+  plugins: [
     async function tailwindPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",

@@ -37,7 +37,7 @@ module.exports = {
   tagline:
     "I am a Full Stack Web Developer.",
   url: "https://AryanKoundal.github.io",
-  baseUrl: "/website/",
+  baseUrl: "/",
   onBrokenLinks: "ignore",
   favicon: "img/logo.png",
   organizationName: "AryanKoundal",

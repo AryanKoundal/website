@@ -37,7 +37,7 @@ module.exports = {
   tagline:
     "I am a Full Stack Web Developer.",
   url: "https://AryanKoundal.github.io",
-  baseUrl: "/",
+  baseUrl: "/website",
   // url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash
   // baseUrl: '/', // Base directory of your site relative to your repo
   onBrokenLinks: "ignore",

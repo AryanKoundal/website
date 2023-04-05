@@ -37,11 +37,11 @@ module.exports = {
   tagline:
     "I am a Full Stack Web Developer.",
   url: "https://AryanKoundal.github.io",
-  baseUrl: "/portfolio/",
+  baseUrl: "/website/",
   onBrokenLinks: "ignore",
   favicon: "img/logo.png",
   organizationName: "AryanKoundal",
-  projectName: "portfolio",
+  projectName: "website",
   trailingSlash: false,
   themeConfig: {
     colorMode: {

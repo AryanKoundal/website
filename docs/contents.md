@@ -7,7 +7,7 @@ Last Updated on March 30, 2023
 
 ## Reading List
 
-Here, you will find my thoughts on articles, books, videos and other forms of media. I also maintain a [Reading List](reading-list) of articles, books, videos, and more which I think are meaningful and insightful.
+Here, you will find my thoughts on articles and books.
 
 ### Article Summaries
 <!-- 
@@ -21,17 +21,17 @@ Here, you will find my thoughts on articles, books, videos and other forms of me
 
 ### Book Summaries
 
-<div class="contentTableContainer">
+<!-- <div class="contentTableContainer">
 
 |     | Title                                                                   | Date Last Updated |
 | --- | ----------------------------------------------------------------------- | ----------------- |
 | 1   | [Ikigai: The Japanese Secret to a Long and Happy Life](ikigai)          | March 30, 2023     |
 
-</div>
+</div>  -->
 
 ## Documentation
 
-Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter.
+<!-- Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter. -->
 <!-- 
 ### Cloud and Networking
 
@@ -47,36 +47,35 @@ Here, you will find a collection of concise notes on full-stack software enginee
 </div> -->
 
 ### Programming
-
+<!-- 
 <div class="contentTableContainer">
 
 |     | Topic                        | Date Last Updated |
 | --- | ---------------------------- | ----------------- |
 | 1   | [C](c-cheatsheet)            | March 30, 2023 |
 | 2   | [Javascript](js-cheatsheet)  | March 30, 2023  |
-
-</div>
+ 
+</div>  -->
 
 ### Tooling and OS
 
-<div class="contentTableContainer">
+<!-- <div class="contentTableContainer">
 
 |     | Topic                          | Date Last Updated |
 | --- | ------------------------------ | ----------------- |
 | 1   | [Git](git-cheatsheet)          | March 30, 2023 |
 | 2   | [Ubuntu](os-ubuntu-cheatsheet) | March 30, 2023 |
 
-</div>
+</div>  -->
 
 ### Web Development
 
-<div class="contentTableContainer">
+<!-- <div class="contentTableContainer">
 
 |     | Topic                        | Date Last Updated |
 | --- | ---------------------------- | ----------------- |
 | 1   | [MongoDB](mongodb-setup)     | March 30, 2023 |
 | 2   | [NodeJS](nodejs-auto-reload) | March 30, 2023 |
-| 3   | [Django](django-setup) | March 30, 2023 |
-
-
+| 3   | [Django](django-setup) | March 30, 2023 | 
 </div>
+ -->

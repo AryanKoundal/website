@@ -2,9 +2,7 @@
 title: Git Ignore file
 ---
 
-Published on December 24, 2020
-
-_This document was migrated from [DigiDocs](https://digipie.github.io/digidocs/git/ignoring-files/)_
+Published on March 23, 2023
 
 This section covers how to tell Git to ignore certain files and directories by using _.gitignore_ files or the `git update-index` commands.
 
@@ -73,9 +71,4 @@ Read the [man page](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gi
 
 ## Resources
 
-- [Original copy of this document at DigiDocs](https://digipie.github.io/digidocs/git/ignoring-files/)
-- [gitscm's documentation for .gitignore](https://git-scm.com/docs/gitignore)
 - [github's guide to ignoring files](https://help.github.com/en/articles/ignoring-files)
-- [gitready's guide to ignoring files](http://gitready.com/beginner/2009/01/19/ignoring-files.html)
-- [gitready's guide to temporarily ignoring files](http://gitready.com/intermediate/2009/02/18/temporarily-ignoring-files.html)
-- [man page on 'git update-index'](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-update-index.html)

@@ -5,11 +5,18 @@ slug: "/"
 
 Last Updated on March 30, 2023
 
-## Reading List
+<!-- ## Reading List -->
 
-Here, you will find my thoughts on articles and books.
+In the docs section, you can read my articles and guides on:
 
-### Article Summaries
+1. API Documentation
+1. Book Summaries
+1. Cloud and Networking
+1. Programming
+1. Tooling and OS
+1. Web Development
+
+<!-- ### Article Summaries -->
 <!-- 
 <div class="contentTableContainer">
 
@@ -19,7 +26,7 @@ Here, you will find my thoughts on articles and books.
 
 </div> -->
 
-### Book Summaries
+<!-- ### Book Summaries -->
 
 <!-- <div class="contentTableContainer">
 
@@ -29,7 +36,7 @@ Here, you will find my thoughts on articles and books.
 
 </div>  -->
 
-## Documentation
+<!-- ## Documentation -->
 
 <!-- Here, you will find a collection of concise notes on full-stack software engineering and cloud operations. These notes are filed under their respective topic, with related topics are categorised under the same chapter. -->
 <!-- 
@@ -46,7 +53,7 @@ Here, you will find my thoughts on articles and books.
 
 </div> -->
 
-### Programming
+<!-- ### Programming -->
 <!-- 
 <div class="contentTableContainer">
 
@@ -57,7 +64,7 @@ Here, you will find my thoughts on articles and books.
  
 </div>  -->
 
-### Tooling and OS
+<!-- ### Tooling and OS -->
 
 <!-- <div class="contentTableContainer">
 
@@ -68,7 +75,7 @@ Here, you will find my thoughts on articles and books.
 
 </div>  -->
 
-### Web Development
+<!-- ### Web Development -->
 
 <!-- <div class="contentTableContainer">
 
